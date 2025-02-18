@@ -1,6 +1,6 @@
-# RESUME
+#RESUME
 Guguloth Udaykiran
-[Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) | [Your GitHub Profile](https://github.com/yourusername) | [Your Personal Website](https://yourwebsite.com)
+[Your LinkedIn Profile](https://www.linkedin.com/in/udaykiran-guguloth/) | [Your GitHub Profile](https://github.com/udaykiran-47) 
 
 ---
 
